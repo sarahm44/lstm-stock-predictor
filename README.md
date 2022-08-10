@@ -73,3 +73,7 @@ See a DataFrame of real and predicted values for the FNG model:
 See a graph of the real vs predicted values for the FNG model:
 
 ![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/fng_graph.png)
+
+#### Conclusions
+
+As indicated by the graphs and dataframes above, the LSTM RNN which uses closing price data has the lowest loss, and tracks the actual values best over time.
