@@ -58,10 +58,18 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 See a DataFrame of real and predicted values for the Closing Prices model:
 
+![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/closing_df.png)
+
 See a graph of the real vs predicted values for the Closing Prices model:
+
+![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/closing_graph.png)
 
 #### FNG Model
 
 See a DataFrame of real and predicted values for the FNG model:
 
+![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/fng_df.png)
+
 See a graph of the real vs predicted values for the FNG model:
+
+![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/fng_graph.png)
