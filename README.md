@@ -2,6 +2,17 @@
 
 ![](https://github.com/sarahm44/lstm-stock-predictor/blob/main/images/deep-learning.jpg)
 
+## Table of Contents
+
+- [Overview](#overview)
+- [Tasks Completed for Each Notebook](#tasks-completed-for-each-notebook)
+  * [Prepare the Data for Training and Testing](#prepare-the-data-for-training-and-testing)
+  * [Build and Train Custom LSTM RNNs](#build-and-train-custom-lstm-rnns)
+  * [Evaluating the Performance of Each Model](#evaluating-the-performance-of-each-model)
+    + [Closing Prices Model](#closing-prices-model)
+    + [FNG Model](#fng-model)
+    + [Conclusions](#conclusions)
+
 ## Overview
 
 Due to the volatility of cryptocurrency speculation, investors will often try to incorporate sentiment from social media and news articles to help guide their trading strategies. One such indicator is the [Crypto Fear and Greed Index (FNG)](https://alternative.me/crypto/fear-and-greed-index/) which attempts to use a variety of data sources to produce a daily FNG value for cryptocurrency. 
